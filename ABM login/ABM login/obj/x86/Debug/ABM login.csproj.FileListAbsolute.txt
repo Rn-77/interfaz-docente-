@@ -1,0 +1,13 @@
+C:\Users\TONCHI\Desktop\ABM login\ABM login\bin\Debug\ABM login.exe
+C:\Users\TONCHI\Desktop\ABM login\ABM login\bin\Debug\ABM login.pdb
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\ABM login.csproj.GenerateResource.Cache
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\ABM login.exe
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\ABM login.pdb
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\WindowsFormsApplication1.ventana_login.resources
+C:\Users\TONCHI\Desktop\ABM login\ABM login\bin\Debug\ABM login.exe.config
+C:\Users\TONCHI\Desktop\ABM login\ABM login\bin\Debug\BdUsurioAc.mdb
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\WindowsFormsApplication1.frmCrearUsuario.resources
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\WindowsFormsApplication1.frmMostrar.resources
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\ABM login.csprojAssemblyReference.cache
+C:\Users\TONCHI\Desktop\ABM login\ABM login\obj\x86\Debug\ABM login.csproj.CoreCompileInputs.cache
